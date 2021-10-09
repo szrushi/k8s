@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/ingress-nginx/controller:v1.0.0-alpha.2
+k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
