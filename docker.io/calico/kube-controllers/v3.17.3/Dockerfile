@@ -1,0 +1,1 @@
+from docker.io/calico/kube-controllers:v3.17.3
