@@ -1,0 +1,1 @@
+from docker.io/rancher/rancher:v2.6.6
