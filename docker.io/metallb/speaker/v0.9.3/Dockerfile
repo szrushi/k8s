@@ -1,0 +1,1 @@
+from metallb/speaker:v0.9.3
