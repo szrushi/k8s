@@ -1,0 +1,1 @@
+from docker.io/calico/cni:v3.21.4
